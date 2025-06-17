@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/speakeasy-api-markdown-sidecar-mcp-badge.png)](https://mseep.ai/app/speakeasy-api-markdown-sidecar-mcp)
+
 <div align="center">
  <a href="https://www.speakeasy.com/" target="_blank">
    <picture>
